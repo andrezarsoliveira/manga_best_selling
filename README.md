@@ -10,7 +10,7 @@
 
 
 <p align="center"> 
-<img width="400" align="center" alt="Modelo Conceitual" src="https://img.freepik.com/vetores-gratis/ilustracao-em-quadrinhos-vintage-desenhada-a-mao_23-2149624605.jpg?w=826&t=st=1705404054~exp=1705404654~hmac=43b216642edb47704e3bcd0fc48264f8ea66cd69fb0bfe0daed1d5223f811de1">
+<img width="400" align="center" alt="Mangá" src="https://img.freepik.com/vetores-gratis/ilustracao-em-quadrinhos-vintage-desenhada-a-mao_23-2149624605.jpg?w=826&t=st=1705404054~exp=1705404654~hmac=43b216642edb47704e3bcd0fc48264f8ea66cd69fb0bfe0daed1d5223f811de1">
 </p> 
 
 
